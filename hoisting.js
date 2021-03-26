@@ -9,14 +9,9 @@ function callMe() {
 thisIsCrazy();
 
 function thisIsCrazy() {
-  console.log("hey!!!");
+  console.log("hey!!!")
 }
 
-
-  var thisIsCrazy = function (){
-    console.log("hey!!!")
-  }
-}
 
 function sayMyName() {
   // fix the code in here:

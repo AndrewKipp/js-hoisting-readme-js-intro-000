@@ -4,7 +4,7 @@ lyric = "maybe";
 function callMe() {
   return lyric;
   var lyric = "maybe";
-  console.log("maybe")
+  console.log("maybe");
 }
 
 

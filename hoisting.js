@@ -6,12 +6,13 @@ function callMe() {
   console.log("maybe");
 }
 
-thisIsCrazy();
+function crazy(); {
 
-function thisIsCrazy() {
+var thisIsCrazy = function() {
   console.log("hey!!!");
 }
-
+thisIsCrazy();
+}
 
 function sayMyName() {
   // fix the code in here:
